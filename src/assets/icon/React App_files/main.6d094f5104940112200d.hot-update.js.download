@@ -1,0 +1,110 @@
+webpackHotUpdate("main",{
+
+/***/ "./src/index.tsx":
+/*!***********************!*\
+  !*** ./src/index.tsx ***!
+  \***********************/
+/*! no exports provided */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var react_dom__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react-dom */ "./node_modules/react-dom/index.js");
+/* harmony import */ var react_dom__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react_dom__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _index_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./index.css */ "./src/index.css");
+/* harmony import */ var _index_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_index_css__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _reportWebVitals__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./reportWebVitals */ "./src/reportWebVitals.ts");
+/* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! react-router-dom */ "./node_modules/react-router-dom/index.js");
+/* harmony import */ var _components_login_Login__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./components/login/Login */ "./src/components/login/Login.tsx");
+/* harmony import */ var _components_timesheet_Main__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./components/timesheet/Main */ "./src/components/timesheet/Main.tsx");
+/* harmony import */ var _components_timesheet_container_tasks_tasks__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./components/timesheet/container/tasks/tasks */ "./src/components/timesheet/container/tasks/tasks.tsx");
+var _jsxFileName = "C:\\Users\\pv\\OneDrive\\M\xE1y t\xEDnh\\timesheet\\ncc-vinh-training-intern-reactjs\\src\\index.tsx";
+
+
+
+
+
+
+
+
+react_dom__WEBPACK_IMPORTED_MODULE_1___default.a.render( /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_4__["BrowserRouter"], {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 12,
+    columnNumber: 3
+  }
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_4__["Routes"], {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 13,
+    columnNumber: 5
+  }
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_4__["Route"], {
+  path: "/",
+  element: /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_login_Login__WEBPACK_IMPORTED_MODULE_5__["default"], {
+    __self: undefined,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 14,
+      columnNumber: 32
+    }
+  }),
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 14,
+    columnNumber: 7
+  }
+}), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_4__["Route"], {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 15,
+    columnNumber: 7
+  }
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_4__["Route"], {
+  path: "main",
+  element: /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_timesheet_Main__WEBPACK_IMPORTED_MODULE_6__["default"], {
+    __self: undefined,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 16,
+      columnNumber: 37
+    }
+  }),
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 16,
+    columnNumber: 9
+  }
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_4__["Route"], {
+  path: "task",
+  element: /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_timesheet_container_tasks_tasks__WEBPACK_IMPORTED_MODULE_7__["Tasks"], {
+    __self: undefined,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 17,
+      columnNumber: 39
+    }
+  }),
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 17,
+    columnNumber: 11
+  }
+}))))), document.getElementById("root")); // If you want to start measuring performance in your app, pass a function
+// to log results (for example: reportWebVitals(console.log))
+// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
+
+Object(_reportWebVitals__WEBPACK_IMPORTED_MODULE_3__["default"])();
+
+/***/ })
+
+})
+//# sourceMappingURL=main.6d094f5104940112200d.hot-update.js.map
